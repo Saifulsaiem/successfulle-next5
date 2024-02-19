@@ -1,0 +1,24 @@
+hr{
+    height: auto;
+    width: 1px;
+
+}
+/* .hr2{
+    border: 1px solid lime;
+    border-radius: 20px;
+    margin-top: 3rem;
+} */
+.seat-sec{
+    border-top: 1px solid lime;
+    margin-top: 3rem;
+}
+.btn1{
+    width: 100px;
+}
+.end-page{
+    background-color: antiquewhite;
+    padding: 50px;
+    margin: 0 200px;
+    border-radius: 20px;
+    text-align: center;
+}
